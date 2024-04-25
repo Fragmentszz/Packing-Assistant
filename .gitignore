@@ -1,0 +1,6 @@
+x64/
+*.vcxproj
+*.vcxproj.*
+*.exe
+.vscode/
+__pycache__/
